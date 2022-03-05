@@ -20,3 +20,7 @@ r to be internal resistance of the LED.
 	Thereby we get R to be 230 Ohm. So, we use are using resistor with resistance of 230 Ohm.
   
   ![image](https://user-images.githubusercontent.com/40635491/156864936-44336c88-e5f4-4b0d-8758-65da91630be2.png)
+  
+  # Coding
+  
+  ![image](https://user-images.githubusercontent.com/40635491/156865045-7ca9f39c-19b0-42df-98d2-da35d5845de6.png)
